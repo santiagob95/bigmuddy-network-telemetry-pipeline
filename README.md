@@ -1,5 +1,5 @@
 
-# *pipeline*
+# *pipeline Logicalis*
 
 *pipeline* is an all-batteries-included utility which consumes IOS XR
 telemetry streams directly from the router or indirectly from a
